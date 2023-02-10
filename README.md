@@ -1,5 +1,5 @@
 - 👋 Ahoy, I’m @Andruxxa7
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C# and JS
+- 🌱 I’m currently learning C# and Java
 
 
