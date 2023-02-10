@@ -1,4 +1,4 @@
-- 👋 Ahoy, I’m @Andruxxa7
+- 👋 Hello, I’m @Andruxxa7
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning C# and Java
 
