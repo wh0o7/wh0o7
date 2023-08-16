@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Andruxxa7
+- 👋 Hello, I’m @wh0o7
 - 🌱 I’m currently learning C# and Java
 
 
